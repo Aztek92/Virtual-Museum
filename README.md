@@ -7,6 +7,7 @@ Sadly, we don't know if it made it there after we handed over the source code...
 ### Project is a two-parter:
 1. Unity application on Android
 2. Website with relics to download
+
 We didn't manage to make a link between them due to limited time. Buy yeah, there it is.
 
 ### Application features:
